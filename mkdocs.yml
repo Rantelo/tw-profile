@@ -1,0 +1,15 @@
+site_name: Rantelo
+nav:
+  - index.md
+  - Education: education.md
+  - My Experience in the Tech Industry: experience.md
+
+images:
+  me: images/me2.jpg
+
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: indigo
+  logo: images/wizeline_isotype.png
